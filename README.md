@@ -9,6 +9,43 @@
 
 <br/>
 
+# Real-time Chat App with Flask Backend and Next.js Frontend
+
+This is a simple web application that allows users to input a string in a textbox, send it to a Python Flask backend for processing, and then show the processed data in a window alert. The app is built using Next.js for the frontend and Flask for the backend.
+
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- User-friendly interface to input and process strings
+- Real-time updates of processed data using Flask backend
+- Responsive design for optimal viewing on various devices
+
+## Getting Started
+
+### Prerequisites
+
+Before running the application, make sure you have the following installed:
+
+- Node.js (https://nodejs.org/)
+- Python (https://www.python.org/)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-chat-app.git
+
+
 ## Introduction
 
 This is a hybrid Next.js + Python app that uses Next.js as the frontend and Flask as the API backend. One great use case of this is to write Next.js apps that use Python AI libraries on the backend.
