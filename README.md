@@ -22,8 +22,6 @@
 - [Demo](#demo)
 - [Deploy Your Own](#deploy-your-own)
 - [Developing Locally](#developing-locally)
-- [Getting Started](#getting-started)
-- [Learn More](#learn-more)
 
 ## Features
 - Real-time messaging
@@ -87,36 +85,10 @@ You can clone & deploy it to Vercel with one click:
 
 ## Developing Locally
 
-You can clone & create this repo with the following command
+Its very easy to run the app, just follow the steps given below:
+1. First of all clone this repo on VS Code.
+2. Next you have to open a terminal in the VS Code itself.
+3. After that write the command npm install, this will install Node Package Manager.
+4. Now run the command npm run dev, this will start your backend i.e Flask and Frontend part on your localhost 3000.
+5. Simply open any browser and go to http://localhost:3000/, to try the app.
 
-```bash
-npx create-next-app nextjs-flask --example "https://github.com/vercel/examples/tree/main/python/nextjs-flask"
-
-## Getting Started
-
-First, install the dependencies:
-
-```bash
-npm install
-# or
-yarn
-# or
-pnpm install
-
-Then, run the development server:
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-Open http://localhost:3000 with your browser to see the result.
-
-The Flask server will be running on http://127.0.0.1:5328 – feel free to change the port in package.json (you'll also need to update it in next.config.js).
-
-Learn More
-To learn more about Next.js, take a look at the following resources:
-
-Next.js Documentation - learn about Next.js features and API.
-Learn Next.js - an interactive Next.js tutorial.
-Flask Documentation - learn about Flask features and API.
-You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
