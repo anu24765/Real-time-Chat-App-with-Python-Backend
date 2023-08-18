@@ -75,7 +75,7 @@ In production, the Flask server is hosted as [Python serverless functions](https
 
 You can watch the demo video by clicking the link below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_HERE" frameborder="0" allowfullscreen></iframe>
+https://drive.google.com/file/d/1AyOtBw53Pflqt6TTv9ru6aRdzvHcrXKu/view?usp=sharing
 
 
 ## Deploy Your Own
