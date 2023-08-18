@@ -73,7 +73,8 @@ In production, the Flask server is hosted as [Python serverless functions](https
 
 ## Demo
 
-https://nextjs-flask-starter.vercel.app/
+I have provided demo video with below link:
+https://drive.google.com/file/d/1AyOtBw53Pflqt6TTv9ru6aRdzvHcrXKu/view?usp=sharing
 
 ## Deploy Your Own
 
