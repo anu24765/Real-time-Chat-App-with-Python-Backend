@@ -33,9 +33,7 @@
 - Flask
 - Next.js
 - Socket.IO
-- SQLAlchemy
-- JWT (JSON Web Tokens)
-- PostgreSQL
+
 
 ## Installation
 ### Backend Setup
